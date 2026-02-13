@@ -1,0 +1,6 @@
+terminal 
+cd p
+npm install
+cd frontend
+npm start
+wait 2 min web will auto start
